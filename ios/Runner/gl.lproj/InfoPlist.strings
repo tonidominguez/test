@@ -1,3 +1,0 @@
-NSCameraUsageDescription = "Esta aplicación require permisos de acceso á túa cámara.";
-NSPhotoLibraryUsageDescription = "Esta aplicación require permisos de acceso á túa biblioteca de fotos.";
-PermissionGroupNotification = "Esta aplicación require permisos de acceso ás notificacións.";

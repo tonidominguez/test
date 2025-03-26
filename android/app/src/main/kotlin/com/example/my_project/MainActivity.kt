@@ -1,4 +1,4 @@
-package com.targetbox.bariatrico
+package com.mycompany.test
 
 import io.flutter.embedding.android.FlutterActivity
 
