@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "This application requires access permissions to your camera.";
+NSPhotoLibraryUsageDescription = "This application requires access permissions to your photo library.";
+PermissionGroupNotification = "This app requires notification access permissions.";

@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Aplikazio honek zure kamerara sartzeko baimenak behar ditu.";
+NSPhotoLibraryUsageDescription = "Aplikazio honek zure argazki liburutegirako sarbide-baimenak behar ditu.";
+PermissionGroupNotification = "Aplikazio honek jakinarazpenak atzitzeko baimenak behar ditu.";
